@@ -1,0 +1,6 @@
+{
+  "name": "Bocadillos Express & Grill",
+  "description": "Vibrant neighborhood fast-food snack shop in Safi, Morocco. Loaded bocadillos, tacos, crispy platters, and refreshing drinks with fast pickup pre-ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
